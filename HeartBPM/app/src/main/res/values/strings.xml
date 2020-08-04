@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HeartBPM</string>
+    <string name="desc">HeartBPM</string>
+    <string name="title1">Now</string>
+    <string name="unit1">BPM</string>
+
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+
+    <string name="connect_to_shealth">삼성헬스 연결</string>
+
+    <string name="notice">공지</string>
+    <string name="msg_perm_acquired">모든 권한을 획득해야합니다.</string>
+    <string name="msg_conn_not_available">삼성헬스와 연결할 수 없습니다.</string>
+    <string name="msg_req_install">삼성헬스를 설치해주세요.</string>
+    <string name="msg_req_upgrade">삼성헬스를 업그레이드 해주세요.</string>
+    <string name="msg_req_enable">삼성헬스를 활성화 해주세요.</string>
+    <string name="msg_req_agree">삼성헬스 정책에 동의 해주세요.</string>
+    <string name="msg_req_available">삼성헬스를 사용할 수 있게 해주세요.</string>
+</resources>
